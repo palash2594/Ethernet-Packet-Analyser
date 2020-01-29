@@ -5,7 +5,7 @@
 javac *.java
 ```
 
-2. To run execute below command
+2. To run, execute below command
 ```
 java PacketAnalyzer filename
 ```
